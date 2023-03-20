@@ -3,8 +3,7 @@
  int main(void)
  {
     int n;
-    printf("Enter number: ");
-    scanf("%d",&n);
+
     if (n<0) {
        printf("%d is negative\n",n);
     }
