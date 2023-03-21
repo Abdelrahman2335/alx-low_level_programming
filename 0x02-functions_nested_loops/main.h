@@ -1,1 +1,2 @@
-This is the main file of C 
+int _putchar(char c);
+void print_alphabet(void);
