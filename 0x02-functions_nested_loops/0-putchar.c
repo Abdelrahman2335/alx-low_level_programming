@@ -1,10 +1,11 @@
 #include <stdio.h>
-/*
- *  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 
- *  _putchar.c 
- *  0-putchar.c -o 
- *  0-putchar
-*/
+#include "main.h"
+/**
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
+ */
+
 int main(void)
 {
 	printf("_putchar\n");
