@@ -1,10 +1,9 @@
-#include "main"
+#include "main.h"
 /**
 * this code is testing that the function positive_or_negative()gutves the correct output when
 * given a case of 0
 */
 
-#include "main.h"
 
 int main(void)
 {
