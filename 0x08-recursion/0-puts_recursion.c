@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	putchar("%c , Puts with recursion");
+	putchar("%d , Puts with recursion");
 	putchar('\n');
 	return (0);
 }
